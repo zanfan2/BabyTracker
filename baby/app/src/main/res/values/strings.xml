@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">宝宝记录</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">首页</string>
+    <string name="nav_statistics">统计</string>
+    <string name="nav_history">历史</string>
+
+    <string name="feeding">喂奶</string>
+    <string name="poop">拉屎</string>
+    <string name="pee">拉尿</string>
+    <string name="record">记录</string>
+    <string name="statistics">统计</string>
+    <string name="history">历史</string>
+    <string name="milk_amount">奶量 (ml)</string>
+    <string name="milk_type">奶类型</string>
+    <string name="breast_milk">母乳</string>
+    <string name="formula_milk">配方奶</string>
+    <string name="poop_color">颜色</string>
+    <string name="poop_consistency">稠度</string>
+    <string name="pee_amount">尿量</string>
+    <string name="notes">备注</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="today">今天</string>
+    <string name="this_week">本周</string>
+    <string name="daily_summary">每日汇总</string>
+    <string name="feeding_count">喂奶次数</string>
+    <string name="poop_count">拉屎次数</string>
+    <string name="pee_count">拉尿次数</string>
+    <string name="total_milk">总奶量</string>
+    <string name="select_date">选择日期</string>
+    <string name="little">少</string>
+    <string name="medium">中</string>
+    <string name="much">多</string>
+    <string name="yellow">黄色</string>
+    <string name="green">绿色</string>
+    <string name="brown">棕色</string>
+    <string name="soft">软</string>
+    <string name="normal">正常</string>
+    <string name="hard">硬</string>
+
+    <!-- 新增：时间选择 -->
+    <string name="select_time">选择时间</string>
+
+    <!-- 新增：母乳喂养相关 -->
+    <string name="feeding_duration">喂养时长（分钟）</string>
+    <string name="breast_side">左右边</string>
+    <string name="left_breast">左边</string>
+    <string name="right_breast">右边</string>
+    <string name="both_breast">双边</string>
+    <string name="left_duration">左边时长（分钟）</string>
+    <string name="right_duration">右边时长（分钟）</string>
+</resources>

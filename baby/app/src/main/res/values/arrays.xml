@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="poop_colors">
+        <item>黄色</item>
+        <item>绿色</item>
+        <item>棕色</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="poop_consistency">
+        <item>软</item>
+        <item>正常</item>
+        <item>硬</item>
+        <item>稀</item>
+    </string-array>
+</resources>

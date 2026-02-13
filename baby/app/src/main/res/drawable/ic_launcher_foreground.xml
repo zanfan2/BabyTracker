@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Baby bottle icon -->
+    <group
+        android:translateX="27"
+        android:translateY="27">
+        <!-- Bottle body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M20,12 L34,12 C36.2,12 38,13.8 38,16 L38,42 C38,44.2 36.2,46 34,46 L20,46 C17.8,46 16,44.2 16,42 L16,16 C16,13.8 17.8,12 20,12 Z"/>
+        <!-- Bottle neck -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M23,6 L31,6 C32.1,6 33,6.9 33,8 L33,12 L21,12 L21,8 C21,6.9 21.9,6 23,6 Z"/>
+        <!-- Bottle cap -->
+        <path
+            android:fillColor="#FFD9E5"
+            android:pathData="M22,2 L32,2 C33.1,2 34,2.9 34,4 L34,6 L20,6 L20,4 C20,2.9 20.9,2 22,2 Z"/>
+        <!-- Milk level -->
+        <path
+            android:fillColor="#FFD9E5"
+            android:pathData="M16,28 L38,28 L38,42 C38,44.2 36.2,46 34,46 L20,46 C17.8,46 16,44.2 16,42 Z"/>
+        <!-- Measurement lines -->
+        <path
+            android:strokeColor="#FF6B9D"
+            android:strokeWidth="1"
+            android:pathData="M16,20 L22,20"/>
+        <path
+            android:strokeColor="#FF6B9D"
+            android:strokeWidth="1"
+            android:pathData="M16,28 L22,28"/>
+        <path
+            android:strokeColor="#FF6B9D"
+            android:strokeWidth="1"
+            android:pathData="M16,36 L22,36"/>
+    </group>
+</vector>
